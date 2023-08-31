@@ -17,12 +17,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Siddharth Perabathini
+## Siddharth
 
-- Bulleted
-- List
+### Favorite Foods
+- Ice Cream
+- Biryani
 
 1. Numbered
 2. List
