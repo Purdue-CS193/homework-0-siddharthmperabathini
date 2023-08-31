@@ -1,3 +1,9 @@
+# Siddharth's First CS193 Homework
+- I like the course topics that will be covered.
+- The instructors are funny and I like the way that they are teaching the content.
+- Being able to apply the tools that we learn to CS projects are interesting.
+- I like the presentations because they are very engaging.
+- Meeting new people and learning about their CS backrounds are cool.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
